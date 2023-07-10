@@ -3,7 +3,7 @@
   <img src="https://graph.org/file/79e34d9399afd81143edc.jpg" alt="Awesome Filter Logo">
   </p>
   <h1 align="center">
-    <b>AᴡᴇsᴏᴍᴇFɪʟᴛᴇʀ Pʀᴏ</b>
+    <b>Filmycloud1 Bot</b>
     </h1>
 
 👩‍💻 Vᴇʀsɪᴏɴ :- 0.1 ✨
