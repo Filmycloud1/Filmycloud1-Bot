@@ -247,8 +247,7 @@ async def start(client, message):
             logger.exception(e)
             f_caption=f_caption
     if f_caption is None:
-        f_caption = f"({files.file_name}/n/n 📽️Join↝ @Filmycloud1_Support
-📽️Search Movie↝ @Filmycloud3_Bot)"
+        f_caption = f"{files.file_name}"
     await client.send_cached_media(
         chat_id=message.from_user.id,
         file_id=file_id,
